@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new folder/Untitled.md",
+                "file": "new folder/new file.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "new file"
             }
           }
         ],
@@ -208,10 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd80f6fa89c3ec8a",
+  "active": "3dcaa4b8e0461793",
   "lastOpenFiles": [
     "git-folder/Untitled/Test on docs.md",
-    "new folder/Untitled.md",
+    "new folder/new file.md",
     "new folder",
     "git-folder/Untitled/Welcome.md"
   ]
